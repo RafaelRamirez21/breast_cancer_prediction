@@ -7,35 +7,9 @@ This project builds a machine learning model to classify breast cancer tumors as
 ## 📁 Project Structure
 
 breast-cancer-prediction/
-│
-├── data/                  # Raw and processed datasets
-│   ├── raw/               # Original dataset files
-│   └── processed/         # Cleaned or transformed data
-│
-├── notebooks/             # Jupyter notebooks for EDA, modeling, evaluation
-│   ├── 
-│
-├── src/                   # Source code (scripts)
-│   ├── data_preprocessing.py
-│   ├── model.py
-│   └── utils.py
-│
-├── models/                # Trained and saved ML models (.pkl, .joblib)
-│
-├── outputs/               # Evaluation results, plots, reports
-│   ├── confusion_matrix.png
-│   └── metrics_report.txt
-│
-├── tests/                 # Unit tests for your code (optional)
-│   └── test_model.py
-│
-├── README.md              # Project overview and instructions
-├── requirements.txt       # List of required Python packages
-├── .gitignore             # Files and folders to be ignored by Git
-└── LICENSE                # (Optional) License file for open-source sharing
 
+![Screenshot 2025-03-29 at 12 55 20 PM](https://github.com/user-attachments/assets/cb24a889-a158-4d4f-a2b3-2fc9ec01ae38)
 
----
 
 ## 🔍 Dataset
 

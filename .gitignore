@@ -1,0 +1,38 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw or processed)
+data/
+*.csv
+*.tsv
+*.zip
+*.gz
+*.h5
+*.npz
+*.npy
+
+# Models
+models/
+*.h5
+*.joblib
+*.pkl
+*.sav
+
+# Output / results
+outputs/
+logs/
+*.log
+
+# VS Code /
+
